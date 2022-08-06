@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Character\Packages\Avatar_01\Scripts\AnimatorCtrl.cs" />
      <Compile Include="Assets\GO Map - 3D Map For AR Gaming\Core\Map Builders\Attributes.cs" />
      <Compile Include="Assets\GO Map - 3D Map For AR Gaming\Core\Map Builders\GOCombineFeatures.cs" />
      <Compile Include="Assets\GO Map - 3D Map For AR Gaming\Core\Map Builders\GOCurver.cs" />
@@ -254,6 +255,9 @@
      <Compile Include="Assets\GO Map - 3D Map For AR Gaming\GOShared\Shared Core\GOMesh.cs" />
      <Compile Include="Assets\GO Map - 3D Map For AR Gaming\GOShared\Shared Core\GOMeshExtrusion.cs" />
      <Compile Include="Assets\GO Map - 3D Map For AR Gaming\GOShared\Shared Core\MeshJob.cs" />
+     <Compile Include="Assets\Scripts\EventPoints.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <None Include="Assets\Character\Packages\Avatar_01\Shaders\toon_cutoff.shader" />
      <None Include="Assets\GO Map - 3D Map For AR Gaming\GOShared\Helpers\Poly2Mesh\Poly2Tri\LICENSE.txt" />
      <None Include="Assets\GO Map - 3D Map For AR Gaming\Demo\Marauder&apos;s Map\POIs\Stops\TransparentShadows.shader" />
      <None Include="Assets\GO Map - 3D Map For AR Gaming\Demo\Shaders\UnlitSingleColor.shader" />
@@ -263,6 +267,7 @@
      <None Include="Assets\GO Map - 3D Map For AR Gaming\Core\Materials &amp; Shaders\LowPoly Procedural Skybox.shader" />
      <None Include="Assets\GO Map - 3D Map For AR Gaming\GOShared\Helpers\Poly2Mesh\Poly2Tri\AUTHORS.txt" />
      <None Include="Assets\GO Map - 3D Map For AR Gaming\Demo\Shaders\TransparentShader.shader" />
+     <None Include="Assets\Character\Packages\Avatar_01\Shaders\toon_hair.shader" />
      <None Include="Assets\GO Map - 3D Map For AR Gaming\Demo\Projectors\ProjectorAdditive.shader" />
      <None Include="Assets\GO Map - 3D Map For AR Gaming\Core\Materials &amp; Shaders\LowPolyMobile3.2.shader" />
      <None Include="Assets\GO Map - 3D Map For AR Gaming\GOShared\Shaders\GOOneSidedText.shader" />
