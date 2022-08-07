@@ -434,7 +434,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Spawn Points
+  m_Text: Spawn Events
 --- !u!222 &231501111
 CanvasRenderer:
   m_ObjectHideFlags: 0
