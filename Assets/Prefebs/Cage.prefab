@@ -74,7 +74,7 @@ GameObject:
   - component: {fileID: 114132501165527428}
   m_Layer: 0
   m_Name: Cage
-  m_TagString: Untagged
+  m_TagString: Cage
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -484,6 +484,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1a0c8896f54a7d419b5b443c3745835, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mousePos: {x: 0, y: 0, z: 0}
+  itemPos: {x: 0, y: 0, z: 0}
 --- !u!135 &135409028368710948
 SphereCollider:
   m_ObjectHideFlags: 1

@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Animals\Orbit Camera\Scripts\maxCamera.cs" />
      <Compile Include="Assets\GO Map - 3D Map For AR Gaming\Core\Map Builders\Attributes.cs" />
      <Compile Include="Assets\GO Map - 3D Map For AR Gaming\Core\Map Builders\GOCombineFeatures.cs" />
      <Compile Include="Assets\GO Map - 3D Map For AR Gaming\Core\Map Builders\GOCurver.cs" />
@@ -257,12 +258,18 @@
      <Compile Include="Assets\Items\Character\Scripts\AnimatorCtrl.cs" />
      <Compile Include="Assets\Items\PetCage\Scripits\Shooter.cs" />
      <Compile Include="Assets\Items\PetCage\Scripits\ShotBall.cs" />
+     <Compile Include="Assets\Scripts\DestroyOrNot.cs" />
      <Compile Include="Assets\Scripts\EventPoints.cs" />
      <Compile Include="Assets\Scripts\ItemsParticalEffects.cs" />
+     <Compile Include="Assets\Scripts\ObserveAnimalOrNot.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\SpawnAnimals.cs" />
      <Compile Include="Assets\Scripts\SpawnPoints.cs" />
+     <Compile Include="Assets\Scripts\UIManager_02.cs" />
      <None Include="Assets\Items\Character\Shaders\toon_cutoff.shader" />
+     <None Include="Assets\Animals\Shaders\Toony-Basic.shader" />
      <None Include="Assets\GO Map - 3D Map For AR Gaming\GOShared\Helpers\Poly2Mesh\Poly2Tri\LICENSE.txt" />
+     <None Include="Assets\Animals\Shaders\Toony-BasicOutline.shader" />
      <None Include="Assets\GO Map - 3D Map For AR Gaming\Demo\Marauder&apos;s Map\POIs\Stops\TransparentShadows.shader" />
      <None Include="Assets\GO Map - 3D Map For AR Gaming\Demo\Shaders\UnlitSingleColor.shader" />
      <None Include="Assets\GO Map - 3D Map For AR Gaming\Demo\Marauder&apos;s Map\POIs\Gyms\Resources\FakeVolumetricLightShader.shader" />
